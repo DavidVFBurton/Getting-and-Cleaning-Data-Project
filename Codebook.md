@@ -119,3 +119,4 @@ of the measurement taken on each subject.
 [69]  fBodyBodyGyroJerkMag_mean
 [70]  fBodyBodyGyroJerkMag_std 
 ```
+
